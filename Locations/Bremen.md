@@ -1,3 +1,3 @@
 # Bremen
 
-Town to the west. Haven't been here yet.
+Town to the west. Borders Maer Dualdon. Haven't been here yet.

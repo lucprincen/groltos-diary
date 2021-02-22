@@ -1,6 +1,6 @@
-# Grolto's diary
+# Grolto's memoirs
 
-This is the diary of Grolto Granitemuncher.
+This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters and evil.
 
 ## Diary entries
 

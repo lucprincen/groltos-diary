@@ -1,2 +1,3 @@
 # Lonelywood
-Not visited yet.
+
+Town in the north, at the foot of Kelvin's Cairn. Borders Maer Dualdon.
