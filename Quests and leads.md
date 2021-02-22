@@ -16,8 +16,10 @@
 
 ## Kobold mine
 - [ ] Investigate kobold infestation
-	- [x] Found the group of kobols
+	- [x] Found the group of kobolds
 	- [x] Led by Trex, a kobold with fake wings. Possessed by a ghost.
-	- [ ] Investigate origin of kobolds, Kelvin's Caern. Look out for duergar.
+	- [ ] Investigate origin of kobolds, in Kelvin's Cairn. Look out for duergar.
+	- [ ] Found kobold tracks leading into a corridor, going one way. Learned a kobold was missing. Need to explore that part of the mine.
 - [ ] Find missing miners
 	- [x] Torrga Icevein transported the body of one of the miners, a half elf man
+	- [ ] Investigate the mine for clues of other miners
