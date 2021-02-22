@@ -1,0 +1,2 @@
+# Giant boar
+Saw a huge boar at the Festival of the Barreled Bull. Was called Borisj. [[Hiln Trollbane]] was its handler. Broke loose when it was sent into a rampage by a shady figure holding a glowing hot knife to its ass. Managed to calm the beast down.
