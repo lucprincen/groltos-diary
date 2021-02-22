@@ -1,3 +1,3 @@
 # Gareth
 
-Ivahn's partner. Lives near the docks. Also went with us to Termalaine.
+[[Ivahn]]'s partner. Lives near the docks in [[Targos]]. Also went with us to [[Termalaine]]. Was murdered there, together with Ivahn.
