@@ -12,7 +12,7 @@
 ## Targos sacrifices
 - [x] Ivahn was about to be sacrificed. Saved him.
 - [ ] Talk to Church of Auril about the sacrifices
-- [ ] Talk to the speaker about sacrifices
+- [ ] Talk to Speaker Nearth about sacrifices
 
 ## Kobold mine
 - [ ] Investigate kobold infestation

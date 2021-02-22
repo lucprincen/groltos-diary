@@ -2,10 +2,19 @@
 
 ## Axe beak
 ![[axe-beak.png]]
+Mounts to travel the icy surroundings of Ten Towns.
 
-## Lake monster
+## Talking lake monster
 ![[lake-monster.png]]
+First encounter: Maer Dualdon. 
+Spoke to me when I dropped trout into the water.
 
-## Giant rats
+## Giant rat
+![[giant-rat.jpeg]]
+First encounter: Mine in Termalaine
+These rodents were as big as me! Never seen rats this size before.
 
 ## Ghost
+![[ghost.jpeg]]
+First encounter: Mine in Termalaine
+Possessed Trex, the kobold leader there.
