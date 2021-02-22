@@ -27,4 +27,5 @@
 ## Frozen Roses
 - [ ] Find their hideout north of Lonelywood, in a cave in the woods. Cave has a large skull as entry
 	- [ ] Talk to [[Adelia]], their leader.
-	- [ ] 
+	- [ ] What are their motives?
+	- [ ] Ask about ransom notes
