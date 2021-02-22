@@ -3,7 +3,7 @@
 ## Ten Towns Murders
 - [x] Ernest stabbed Hiln Trollbane
 	- [ ] Creed of Auril, cult dedicated to Auril?
-- [ ] Guy named [[Characters#Henrack|Henrack]], suspected ties to the murders
+- [ ] Guy named [[Henrack]], suspected ties to the murders
 	- [x] Travels with Torg's, merchant caravan
 	- [ ] Was together with Sephak, who we killed
 	- [ ] Ransom note from the Frozen Roses for 30g
