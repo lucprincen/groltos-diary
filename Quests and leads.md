@@ -6,13 +6,16 @@
 - [ ] Guy named [[Henrack]], suspected ties to the murders
 	- [x] Travels with Torrg's, merchant caravan led by [[Torrga Icevein]]
 	- [x] Was together with [[Sephak]], who we killed
-	- [ ] Ransom note from the Frozen Roses for 30g
+	- [ ] Sephak carried a ransom note from the Frozen Roses for 30g
 	- [ ] Suspect of murder of [[Ivahn]] and [[Gareth]]
 
 ## Targos sacrifices
 - [x] [[Ivahn]] was about to be sacrificed. Saved him.
-- [ ] Talk to Church of Auril about the sacrifices
-- [ ] Talk to [[Speaker Nearth]] about sacrifices
+- [ ] People are being sacrificed to Auril here.
+	- [ ] Talk to Church of Auril about the sacrifices
+	- [ ] Talk to [[Speaker Nearth]] about sacrifices
+	- [ ] Talk to residents. Ask about the circumstances and how they feel about it.
+	- [ ] There was talk about people paying money to not be sacrificed.
 
 ## Kobold mine
 - [ ] Investigate kobold infestation
@@ -28,4 +31,4 @@
 - [ ] Find their hideout north of Lonelywood, in a cave in the woods. Cave has a large skull as entry
 	- [ ] Talk to [[Adelia]], their leader.
 	- [ ] What are their motives?
-	- [ ] Ask about ransom notes
+	- [ ] Ask about ransom notes, like the one [[Sephak]] carried with him
