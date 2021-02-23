@@ -1,2 +1,2 @@
 # Church of Auril
-Church in Targos, dedicated to worshiping Auril, the Winter Goddess.
+Church in [[Targos]], dedicated to worshiping Auril, the Winter Goddess.
