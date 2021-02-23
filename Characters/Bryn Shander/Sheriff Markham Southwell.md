@@ -1,3 +1,6 @@
+---
+aliases: [Markham, Soutwell]
+---
 # Sheriff Markham Southwell
 ![[sheriff-markham.png]]
 

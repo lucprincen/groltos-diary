@@ -1,3 +1,6 @@
+---
+aliases: [Marlon, Tayte]
+---
 # Marlon Tayte
 Mountain dwarf, male. Guard in [[Bryn Shander]].
 

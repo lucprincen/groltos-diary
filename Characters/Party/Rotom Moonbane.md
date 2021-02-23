@@ -1,3 +1,6 @@
+---
+aliases: [Rotom, Moonbane]
+---
 # Rotom Moonbane
 Kobold lady. Rather quirky individual. Sometimes a bit shy and on the background, other times she's all in your face.
 
