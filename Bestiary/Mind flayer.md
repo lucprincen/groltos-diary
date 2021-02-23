@@ -1,4 +1,4 @@
-# Mind flayers
+# Mind flayer
 Mind flayers, also known as illithid, are evil psionic beings. Luckily I've never encountered one before, but I've heard the stories.
 
 ![[mind-flayer-skull.jpg]]
