@@ -7,7 +7,7 @@
 	- [x] Travels with Torrg's, merchant caravan led by [[Torrga Icevein]]
 	- [x] Was together with [[Sephak]], who we killed
 	- [ ] Sephak carried a ransom note from the [[Frozen Roses]] for 30g
-	- [ ] Suspect of murder of [[Ivahn]] and [[Gareth]]
+	- [ ] Suspected murderer of [[Ivahn]] and [[Gareth]]
 
 ## Targos sacrifices
 - [x] [[Ivahn]] was about to be sacrificed. Saved him.
