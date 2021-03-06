@@ -2,7 +2,8 @@
 
 ## Talking lake monster / animals / creatures?
 - [ ] Encountered lake monster on the way to Termalaine.
-- [ ] Two fishermen in [[Termalaine]] spoke about two hunters from [[Lonelywood]] encountering a talking moose.
+- [ ] Two fishermen in [[Termalaine]] spoke about two hunters from [[Lonelywood]] encountering a talking white moose.
+- [ ] Talking owl
 
 ## Ten Towns Murders
 - [x] Ernest stabbed [[Hiln Trollbane]].
