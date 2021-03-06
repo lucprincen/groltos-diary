@@ -1,5 +1,9 @@
 # Quests and leads
 
+## Talking lake monster / animals / creatures?
+- [ ] Encountered lake monster on the way to Termalaine.
+- [ ] Two fishermen in [[Termalaine]] spoke about two hunters from [[Lonelywood]] encountering a talking moose.
+
 ## Ten Towns Murders
 - [x] Ernest stabbed [[Hiln Trollbane]].
 	- [ ] Creed of Auril, cult dedicated to Auril?
@@ -39,4 +43,3 @@
 
 ## Missing loggers from Lonelywood
 - [ ] Some loggers went missing in Lonelywood. We need to investigate.
-	- [ ] 
