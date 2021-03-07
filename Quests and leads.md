@@ -1,9 +1,9 @@
 # Quests and leads
 
-## Talking lake monster / animals / creatures?
-- [ ] Encountered lake monster on the way to Termalaine.
+## Talking creatures in the area
+- [ ] Encountered [[Talking lake monster|talking lake monster]] on the way to Termalaine.
 - [ ] Two fishermen in [[Termalaine]] spoke about two hunters from [[Lonelywood]] encountering a talking white moose.
-- [ ] Talking owl
+- [ ] Talking owl that spoke to [[Henrack]]
 
 ## Ten Towns Murders
 - [x] Ernest stabbed [[Hiln Trollbane]].
@@ -11,8 +11,9 @@
 - [ ] Guy named [[Henrack]], suspected ties to the murders.
 	- [x] Travels with Torrg's, merchant caravan led by [[Torrga Icevein]].
 	- [x] Was together with [[Sephak]], who we killed.
+	- [x] Suspected murderer of [[Ivahn]] and [[Gareth]].
 	- [ ] Sephak carried a ransom note from the [[Frozen Roses]] for 30g.
-	- [ ] Suspected murderer of [[Ivahn]] and [[Gareth]].
+
 
 ## Ten Towns sacrifices
 - [x] [[Ivahn]] was about to be sacrificed. Saved him.
