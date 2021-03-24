@@ -1,0 +1,2 @@
+# Ravisin
+Druid woman from Lonelywood. Long black hair. Apparently a member of the druid circle in Lonelywood Grove. Visited [[Amala Bhilar|Amala]] in [[Termalaine]], asking to join her cause to end the Rime.
