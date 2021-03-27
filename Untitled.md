@@ -1,5 +1,0 @@
-- Who did this to you?
-- Where was the sled taken?
-- Why did Torrga have to die?
-- Did Torrga say anything before she died?
-- 
