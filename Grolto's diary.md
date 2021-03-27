@@ -8,6 +8,8 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 - [[2. A Cold Welcome]]
 - [[3. The Cold Hearted Killer]]
 - [[4. Gloom and Gems]]
+- [[5. Trembling turmoil]]
+- [[6. A turn for the better, a turn for the worse]]
 
 ## Quests and leads
 
