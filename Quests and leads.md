@@ -14,7 +14,6 @@
 	- [x] Suspected murderer of [[Ivahn]] and [[Gareth]].
 	- [ ] Sephak carried a ransom note from the [[Frozen Roses]] for 30g.
 
-
 ## Ten Towns sacrifices
 - [x] [[Ivahn]] was about to be sacrificed. Saved him.
 - [ ] People are being sacrificed to Auril here.
@@ -45,3 +44,6 @@
 
 ## Missing loggers from Lonelywood
 - [ ] Some loggers went missing in Lonelywood. We need to investigate.
+
+## Druid circle near Lonelywood
+- [ ] [[Ravisin]] visited [[Amala Bhilar|Amala]], asking her to join her cause to end the Rime. Found out they were part of 
