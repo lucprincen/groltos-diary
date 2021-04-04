@@ -10,6 +10,7 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 - [[4. Gloom and Gems]]
 - [[5. Trembling turmoil]]
 - [[6. A turn for the better, a turn for the worse]]
+- [[7. Like moths to a fucking flame]]
 
 ## Quests and leads
 
