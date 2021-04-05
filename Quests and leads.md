@@ -1,13 +1,14 @@
 # Quests and leads
 
 ## Talking creatures in the area
-- [ ] Encountered [[Talking lake monster|talking lake monster]] on the way to Termalaine.
+- [x] Encountered [[Talking lake monster|talking lake monster]] on the way to Termalaine.
+	- Dealt with the monster, made a deal with it that it would leave [[Amala Bhilar|Amala]] alone in exchange for food.
 - [ ] Two fishermen in [[Termalaine]] spoke about two hunters from [[Lonelywood]] encountering a talking white moose.
 - [ ] Talking owl that spoke to [[Henrack]]
 
 ## Ten Towns Murders
 - [x] Ernest stabbed [[Hiln Trollbane]].
-	- [ ] Creed of Auril, cult dedicated to Auril?
+	- [ ] [[Creed of Auril]]l, cult dedicated to Auril?
 - [ ] Guy named [[Henrack]], suspected ties to the murders.
 	- [x] Travels with Torrg's, merchant caravan led by [[Torrga Icevein]].
 	- [x] Was together with [[Sephak]], who we killed.
@@ -44,6 +45,13 @@
 
 ## Missing loggers from Lonelywood
 - [ ] Some loggers went missing in Lonelywood. We need to investigate.
+	- [ ] Found a wooden ring on a body with an inscription of the Lonelywood Logging Company
 
 ## Druid circle near Lonelywood
-- [ ] [[Ravisin]] visited [[Amala Bhilar|Amala]], asking her to join her cause to end the Rime. Found out they were part of 
+- [ ] [[Ravisin]] visited [[Amala Bhilar|Amala]], asking her to join her cause to end the Rime. Found out they were part of a druid circle in the forest near Lonelywood.
+
+## Mountain of many meals
+- [ ] Visit the dwarves residing in [[Kelvin's Cairn]] to set up a trade deal for food.
+
+## The Necromancer
+- [ ] The necromancer that killed Yerthid visited me in my dreams and in the mist on the way to the druid circle.
