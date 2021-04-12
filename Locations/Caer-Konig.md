@@ -1,3 +1,3 @@
 # Caer-Konig
 
-Town in the northeast. Borders Lac Dunneshere.
+Town in the northeast. Borders Lac Dinneshere.
