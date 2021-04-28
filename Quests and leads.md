@@ -39,8 +39,8 @@
 
 ### Missing loggers from Lonelywood
 - [ ] Some loggers went missing in [[Lonelywood]]. We need to investigate.
-	- [ ] Found a wooden ring on a body with an inscription of the Lonelywood Logging Company in the Lonelywood forest.
-	- [ ] Two more wooden rings on bodies in the [[Druid Circle]]
+	- Found a wooden ring on a dead body with an inscription of the Lonelywood Logging Company in the Lonelywood forest.
+	- Two more wooden rings on dead bodies in the [[Druid Circle]]
 
 ### Druid circle near Lonelywood
 - [x] Look for [[Ravisin]] at the druid circle in the Lonelywood forest
