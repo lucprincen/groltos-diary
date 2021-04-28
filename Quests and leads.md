@@ -65,6 +65,10 @@
 	- The necromancer had a statue at the [[Druid Circle]]
 	- Name is [[Omareth Baenre]], belonging to the most powerful family in Menzoberranzan.
 
+### Shark skin map
+- [ ] Try to find the locations written on Henrack's [[henrack-shark-skin-map.jpg]]
+	- Go to Bremen and inquire about it
+
 ## Completed
 ### Kobold mine
 - [x] Investigate kobold infestation.
