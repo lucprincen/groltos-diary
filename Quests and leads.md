@@ -18,6 +18,7 @@
 	- [x] Was together with [[Sephak]], who we killed.
 	- [x] Suspected murderer of [[Ivahn of Daerlun]] and [[Gareth of Daerlun]].
 - [ ] Ravisin seems to be part of the murdering cult as well. We need to find her and end this madness.
+	- Ravisin seemed to have left for a frost giant cavern
 
 ### Ten Towns sacrifices
 - [x] [[Ivahn of Daerlun]] was about to be sacrificed. Saved him.
@@ -48,7 +49,7 @@
 	- Found her in the [[Druid Circle]] together.
 	- Ravisin and [[Henrack]] appear to be lovers
 	- Ravisin fled the battle there in owl form
-- [ ] Investigate the place
+- [x] Investigate the place
 	- Moon symbolism
 	- Statues
 	- Gnomon
@@ -68,6 +69,9 @@
 ### Shark skin map
 - [ ] Try to find the locations written on Henrack's [[henrack-shark-skin-map.jpg]]
 	- Go to Bremen and inquire about it
+
+### The elemental lantern
+- [ ] A wizard named Dzaan was looking for the elemental lantern
 
 ## Completed
 ### Kobold mine
