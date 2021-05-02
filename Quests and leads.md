@@ -24,7 +24,7 @@
 - [x] [[Ivahn of Daerlun]] was about to be sacrificed. Saved him.
 - [ ] People are being sacrificed to Auril in some towns.
 	- [ ] Talk to Church of Auril about the sacrifices.
-	- [ ] Talk to [[Speaker Naerth]] about sacrifices.
+	- [ ] Talk to [[Speaker Naerth Maxildanarr]] about sacrifices.
 	- [ ] Talk to residents. Ask about the circumstances and how they feel about it.
 	- [ ] There was talk about people paying money to not be sacrificed.
 	- [ ] Sacrifices started about two months ago.

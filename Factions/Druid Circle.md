@@ -6,4 +6,6 @@ In the middle of the circle, there stood a carved crystal gnomon, its shadow poi
 
 On top of the embankment, there seemed to be a tomb, also surrounded by five pillars on the eastern side.
 
-At the entrance to this place, there were six elven statues. One statue for each elven subrace. One of the statues was of the drow necromancer that killed [[Yerthid Granitemuncher|Yerthid]].
+At the entrance to this place, there were six elven statues. One statue for each elven subrace. One of the statues was of [[Omareth Baenre]], the drow necromancer that killed [[Yerthid Granitemuncher|Yerthid]].
+
+On the west side of the circular opening, there was a crack in the wall that led into a tomb. We found [[Henrack]] and [[Ravisin]] hiding there. We fought and killed Henrack, while Ravisin fled the place in a hurry, killing [[Marlon Tayte|Marlon]] in the process.
