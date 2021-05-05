@@ -1,4 +1,4 @@
-# Druid Circle
+# Sunless Grove
 ![[druid-circle.png]]
 In the woods near [[Termalaine]] and [[Lonelywood]] there is a hidden druid circle that can apparently only be found by elves. It features a circular indentation, surrounded by a ten foot high embankment.
 

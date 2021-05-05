@@ -1,6 +1,6 @@
 # Omareth Baenre
 
-The drow necromancer that killed [[Yerthid Granitemuncher|Yerthid]]. Has a statue at the [[Druid Circle]] with an inscription:
+The drow necromancer that killed [[Yerthid Granitemuncher|Yerthid]]. Has a statue at the [[Sunless Grove]] with an inscription:
 
 > Champion of Malar, god of the hunt. Sovereign of the Growing Mountain.
 
