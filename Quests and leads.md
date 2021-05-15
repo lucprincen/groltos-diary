@@ -43,6 +43,36 @@
 	- Found a wooden ring on a dead body with an inscription of the Lonelywood Logging Company in the Lonelywood forest.
 	- Two more wooden rings on dead bodies in the [[Sunless Grove]]
 
+### Mountain of many meals
+- [ ] Visit the dwarves residing in [[Kelvin's Cairn]] to set up a trade deal for food.
+
+### Omareth Baenre, the necromancer
+- [ ] The necromancer that killed Yerthid visited me in my dreams and in the mist on the way to the druid circle.
+	- The necromancer had a statue at the [[Sunless Grove]]
+	- Name is [[Omareth Baenre]], belonging to the most powerful family in Menzoberranzan.
+	- We learned that Omareth was now the sovereign of the "growing mountain" and was studying it. Could be referencing [[Kelvin's Cairn]]?
+
+### Shark skin map
+- [ ] Try to find the locations written on Henrack's [[henrack-shark-skin-map.jpg]]
+	- Go to Bremen and inquire about it
+	- Seems like it marks the location of the ship Santiago is very eager to find
+
+### The elemental lantern
+- [ ] The [[Frozen Roses]] were interrogating Torrga for the location of the lantern and then killed her for it when she didn't know.
+- [ ] A man named Dzaan from [[Easthaven]] was looking for the elemental lantern to use it to find a certain titan. We can find him in a tavern called The Wet Trout.
+- [ ] Dzaan was in a bidding war for the lantern with someone named Avarice.
+
+## Completed
+### Kobold mine
+- [x] Investigate kobold infestation.
+	- [x] Found the group of kobolds.
+	- [x] Led by [[Trex]], a kobold with fake wings. Possessed by a ghost.
+	- [x] Investigate origin of kobolds, in [[Kelvin's Cairn]]. Be on the lookout for duergar.
+	- [x] Found kobold tracks leading into a corridor, going one way. Learned a kobold was missing as well. Need to explore that part of the mine.
+	- [x] Fought a Grell seeming to have killed the miners.
+- [x] Find missing miners.
+	- [x] [[Torrga Icevein]] transported the body of one of the miners, a half elf man.
+	- [x] Investigate the mine for clues of other miners.
 ### Druid circle near Lonelywood
 - [x] Look for [[Ravisin]] at the druid circle in the Lonelywood forest
 	- [[Ravisin]] visited [[Amala Bhilar|Amala]], asking her to join her cause to end the Rime. Found out they were part of a druid circle in the forest near Lonelywood.
@@ -57,30 +87,3 @@
 	- Brazier
 	- Mirror
 	- Two closed entryways
-
-### Mountain of many meals
-- [ ] Visit the dwarves residing in [[Kelvin's Cairn]] to set up a trade deal for food.
-
-### Omareth Baenre, the necromancer
-- [ ] The necromancer that killed Yerthid visited me in my dreams and in the mist on the way to the druid circle.
-	- The necromancer had a statue at the [[Sunless Grove]]
-	- Name is [[Omareth Baenre]], belonging to the most powerful family in Menzoberranzan.
-
-### Shark skin map
-- [ ] Try to find the locations written on Henrack's [[henrack-shark-skin-map.jpg]]
-	- Go to Bremen and inquire about it
-
-### The elemental lantern
-- [ ] A wizard named Dzaan was looking for the elemental lantern
-
-## Completed
-### Kobold mine
-- [x] Investigate kobold infestation.
-	- [x] Found the group of kobolds.
-	- [x] Led by [[Trex]], a kobold with fake wings. Possessed by a ghost.
-	- [x] Investigate origin of kobolds, in [[Kelvin's Cairn]]. Be on the lookout for duergar.
-	- [x] Found kobold tracks leading into a corridor, going one way. Learned a kobold was missing as well. Need to explore that part of the mine.
-	- [x] Fought a Grell seeming to have killed the miners.
-- [x] Find missing miners.
-	- [x] [[Torrga Icevein]] transported the body of one of the miners, a half elf man.
-	- [x] Investigate the mine for clues of other miners.

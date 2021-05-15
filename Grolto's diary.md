@@ -4,6 +4,7 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 
 ## Diary entries
 
+- [[0. Underdark to Upperdark]]
 - [[1. Barrels, bulls, beers and boars]]
 - [[2. A Cold Welcome]]
 - [[3. The Cold Hearted Killer]]
@@ -12,6 +13,7 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 - [[6. A turn for the better, a turn for the worse]]
 - [[7. Like moths to a fucking flame]]
 - [[8. An eye for an eye]]
+- [[9. Growing conspiracies]]
 
 ## Quests and leads
 
