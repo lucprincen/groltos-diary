@@ -71,8 +71,8 @@
 ### Colder than steel
 - [ ] [[Kelvin's Cairn]] seems to be a source for a newly discovered metal with great properties for forging and magic.
 	- [[Rotom Moonbane|Rotom]] has a couple of metal shards with her, originally found by [[Marlon Tayte|Marlon]] when we defeated the [[Ghost|ghost]] in the [[4. Gloom and Gems|mine]]. The shards have grown in size since we found them.
-	- On the way to [[Battlehammer Hold]] we got buried by an avalanche, caused by an earthquake. Later we discovered still growing spikes of this same metal having burst from the ground.
-	- The dwarves in [[Battlehammer Hold]] mine and forge this metal instead of iron, for having way better properties.
+	- On the way to [[Battlehammar Hold]] we got buried by an avalanche, caused by an earthquake. Later we discovered still growing spikes of this same metal having burst from the ground.
+	- The dwarves in [[Battlehammar Hold]] mine and forge this metal instead of iron, for having way better properties.
 	- What is causing this metal to grow continuously? Is this metal safe to use? Guess we have to find out.
 
 ## Completed
