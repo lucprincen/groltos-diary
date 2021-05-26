@@ -6,9 +6,12 @@
 	- Dealt with the monster, made a deal with it that it would leave [[Amala Bhilar|Amala]] alone in exchange for food.
 - [x] Two fishermen in [[Termalaine]] spoke about two hunters from [[Lonelywood]] encountering a talking white moose.
 	- Killed the white moose at the [[Sunless Grove]]
+- [x] Talking penguin named Kingsporth.
+	- Given the ability to speak by [[Ravisin]]
+	- [[Santiago Cruz de los Santos|Santiago]] carries him in his backpack
 - [ ] Talking owl that spoke to [[Henrack]]
 	- Appears the owl is [[Ravisin]]? She turned into an owl after the battle in the [[Sunless Grove]].
-	- Henrack and Ravisin appeared to be lovers/partners
+	- Henrack and Ravisin appeared to be lovers/partners, but she left Henrack to die when we were fighting him
 
 ### Ten Towns Murders
 - [x] Ernest stabbed [[Hiln Trollbane]].
@@ -18,7 +21,7 @@
 	- [x] Was together with [[Sephak]], who we killed.
 	- [x] Suspected murderer of [[Ivahn of Daerlun]] and [[Gareth of Daerlun]].
 - [ ] Ravisin seems to be part of the murdering cult as well. We need to find her and end this madness.
-	- Ravisin seemed to have left for a frost giant cavern
+	- [[Kingsporth]] mentioned Ravisin had left for a frost giant cavern near [[Easthaven]]
 
 ### Ten Towns sacrifices
 - [x] [[Ivahn of Daerlun]] was about to be sacrificed. Saved him.
@@ -56,14 +59,21 @@
 
 ### The elemental lantern
 - [ ] The [[Frozen Roses]] were interrogating Torrga for the location of the lantern and then killed her for it when she didn't know.
-- [ ] A man named Dzaan from [[Easthaven]] was looking for the elemental lantern to use it to find a certain titan. We can find him in a tavern called The Wet Trout.
+- [ ] A man named [[Dzaan]] from [[Easthaven]] was looking for the elemental lantern to use it to find a certain titan. We can find him in a tavern called The Wet Trout.
 - [ ] Dzaan was in a bidding war for the lantern with someone named Avarice.
 
 ### The Mad King
 - [ ] [[King Baerick Battlehammar]] apparently went mad after wearing armor and trinkets made of chardalyn.
-	- Madness not directly tied to chardalyn, as the king was turned into a derro. This was caused by mindflayer magic.
+	- Madness not directly tied to chardalyn, as the king was turned into a derro. This was caused by mindflayer magic. Metal could still have something to do with it though. Need to investigate.
 	- We need someone with powerful healing abilities to lift this magic or curse from the king.
-	- We know of mages and cleric in Easthaven
+	- We know of mages and clerics in [[Easthaven]] who might be able to help the mad king.
+
+### Colder than steel
+- [ ] [[Kelvin's Cairn]] seems to be a source for a newly discovered metal with great properties for forging and magic.
+	- [[Rotom Moonbane|Rotom]] has a couple of metal shards with her, originally found by [[Marlon Tayte|Marlon]] when we defeated the [[Ghost|ghost]] in the [[4. Gloom and Gems|mine]]. The shards have grown in size since we found them.
+	- On the way to [[Battlehammer Hold]] we got buried by an avalanche, caused by an earthquake. Later we discovered still growing spikes of this same metal having burst from the ground.
+	- The dwarves in [[Battlehammer Hold]] mine and forge this metal instead of iron, for having way better properties.
+	- What is causing this metal to grow continuously? Is this metal safe to use? Guess we have to find out.
 
 ## Completed
 ### Kobold mine
