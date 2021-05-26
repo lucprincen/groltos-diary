@@ -14,6 +14,7 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 - [[7. Like moths to a fucking flame]]
 - [[8. An eye for an eye]]
 - [[9. Growing conspiracies]]
+- [[10. Dwarves Divided]]
 
 ## Quests and leads
 
