@@ -1,0 +1,4 @@
+---
+aliases: [Girsa]
+---
+# Girsa Splintersword
