@@ -43,9 +43,6 @@
 	- Found a wooden ring on a dead body with an inscription of the Lonelywood Logging Company in the Lonelywood forest.
 	- Two more wooden rings on dead bodies in the [[Sunless Grove]]
 
-### Mountain of many meals
-- [ ] Visit the dwarves residing in [[Kelvin's Cairn]] to set up a trade deal for food.
-
 ### Omareth Baenre, the necromancer
 - [ ] The necromancer that killed Yerthid visited me in my dreams and in the mist on the way to the druid circle.
 	- The necromancer had a statue at the [[Sunless Grove]]
@@ -61,6 +58,12 @@
 - [ ] The [[Frozen Roses]] were interrogating Torrga for the location of the lantern and then killed her for it when she didn't know.
 - [ ] A man named Dzaan from [[Easthaven]] was looking for the elemental lantern to use it to find a certain titan. We can find him in a tavern called The Wet Trout.
 - [ ] Dzaan was in a bidding war for the lantern with someone named Avarice.
+
+### The Mad King
+- [ ] [[King Baerick Battlehammar]] apparently went mad after wearing armor and trinkets made of chardalyn.
+	- Madness not directly tied to chardalyn, as the king was turned into a derro. This was caused by mindflayer magic.
+	- We need someone with powerful healing abilities to lift this magic or curse from the king.
+	- We know of mages and cleric in Easthaven
 
 ## Completed
 ### Kobold mine
@@ -87,3 +90,8 @@
 	- Brazier
 	- Mirror
 	- Two closed entryways
+
+### Mountain of many meals
+- [x] Visit the dwarves residing in [[Kelvin's Cairn]] to set up a trade deal for food.
+	- Trade deal has been set up with [[Bailon the Beardless]], leader of [[Deep Delver's Enclave]].
+	- Amala and Bailon set up the contract, Amala went back alone to [[Termalaine]] to deliver the news to [[Speaker Oarus|Oarus]].
