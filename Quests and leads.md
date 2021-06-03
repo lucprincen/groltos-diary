@@ -27,9 +27,9 @@
 - [x] [[Ivahn of Daerlun]] was about to be sacrificed. Saved him.
 - [ ] People are being sacrificed to Auril in some towns.
 	- [ ] Talk to Church of Auril about the sacrifices.
-	- [ ] Talk to [[Speaker Naerth Maxildanarr]] about sacrifices.
+	- [ ] Talk to [[Speaker Naerth Maxildanarr]] about sacrifices and lottery.
 	- [ ] Talk to residents. Ask about the circumstances and how they feel about it.
-	- [ ] There was talk about people paying money to not be sacrificed.
+	- [ ] There was talk about people paying money to not be picked in the sacrifice lottery.
 	- [ ] Sacrifices started about two months ago.
 	- [ ] Speaker from Dougan's Hall spoke to [[Speaker Oarus|Oarus]] about the sacrifices.
 	- [ ] Wizards in [[Easthaven]] wanting to end the Endless Winter.
