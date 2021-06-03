@@ -33,6 +33,8 @@
 	- [ ] Sacrifices started about two months ago.
 	- [ ] Speaker from Dougan's Hall spoke to [[Speaker Oarus|Oarus]] about the sacrifices.
 	- [ ] Wizards in [[Easthaven]] wanting to end the Endless Winter.
+	- [ ] [[Ravisin]] wanting to end the Endless Winter
+	- [ ] [[Nass Lantomir]] wanting to end the Endless Winter
 
 ### Frozen Roses
 - [ ] Find their [[Frozen Roses hideout|hideout]] north of Lonelywood, in a cave in the woods. Cave has a large mammoth skull as entry.
@@ -51,11 +53,12 @@
 	- The necromancer had a statue at the [[Sunless Grove]]
 	- Name is [[Omareth Baenre]], belonging to the most powerful family in Menzoberranzan.
 	- We learned that Omareth was now the sovereign of the "growing mountain" and was studying it. Could be referencing [[Kelvin's Cairn]]?
+	- [[Bailon the Beardless|Bailon]] mentioned inquiring about this necromancer with [[Gorom]], an ancient creature living in [[Kelvin's Cairn]].
 
 ### Shark skin map
 - [ ] Try to find the locations written on Henrack's [[henrack-shark-skin-map.jpg]]
 	- Go to Bremen and inquire about it
-	- Seems like it marks the location of the ship Santiago is very eager to find
+	- Seems like it marks the location of the ship Santiago eagerly wants to find
 
 ### The elemental lantern
 - [ ] The [[Frozen Roses]] were interrogating Torrga for the location of the lantern and then killed her for it when she didn't know.
@@ -67,13 +70,23 @@
 	- Madness not directly tied to chardalyn, as the king was turned into a derro. This was caused by mindflayer magic. Metal could still have something to do with it though. Need to investigate.
 	- We need someone with powerful healing abilities to lift this magic or curse from the king.
 	- We know of mages and clerics in [[Easthaven]] who might be able to help the mad king.
+	- We found [[Vellynne Harpell]] who might be able to help King Baerick.
 
 ### Colder than steel
 - [ ] [[Kelvin's Cairn]] seems to be a source for a newly discovered metal with great properties for forging and magic.
 	- [[Rotom Moonbane|Rotom]] has a couple of metal shards with her, originally found by [[Marlon Tayte|Marlon]] when we defeated the [[Ghost|ghost]] in the [[4. Gloom and Gems|mine]]. The shards have grown in size since we found them.
-	- On the way to [[Battlehammar Hold]] we got buried by an avalanche, caused by an earthquake. Later we discovered still growing spikes of this same metal having burst from the ground.
+	- On the way to [[Battlehammar Hold]] we got buried by an avalanche, caused by an earthquake. Later we discovered still growing spikes of this same metal having burst from the ground. Apparently the metal is called chardalyn.
 	- The dwarves in [[Battlehammar Hold]] mine and forge this metal instead of iron, for having way better properties.
-	- What is causing this metal to grow continuously? Is this metal safe to use? Guess we have to find out.
+	- What is causing chardalyn to grow continuously? Is this metal safe to use? Guess we have to find out.
+	- We learned from [[Vellynne Harpell]] that chardalyn is called Crenshinibon in ancient elvish. The metal seems to thrive and grow in very cold climates.
+
+### Lost & found
+- [ ] In and around [[Deep Delver's Enclave]] various items seem to have gone missing
+	- [[Sigha]] is missing her goat, Gary
+	- [[Jayce Goldsmile]] is missing her spectacles
+	- The bartender from The Lucky Lute is missing a couple kegs of ale, saw dwarven tracks.
+	- Various other items are missing
+	- [[Bailon the Beardless|Bailon]] had a suspicion that these creatures could turn invisible. Combining this lead with the dwarven tracks, these would probably be [[duergar]].
 
 ## Completed
 ### Kobold mine
