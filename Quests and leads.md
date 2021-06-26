@@ -78,7 +78,7 @@
 	- On the way to [[Battlehammar Hold]] we got buried by an avalanche, caused by an earthquake. Later we discovered still growing spikes of this same metal having burst from the ground. Apparently the metal is called chardalyn.
 	- The dwarves in [[Battlehammar Hold]] mine and forge this metal instead of iron, for having way better properties.
 	- What is causing chardalyn to grow continuously? Is this metal safe to use? Guess we have to find out.
-	- We learned from [[Vellynne Harpell]] that chardalyn is called Crenshinibon in ancient elvish. The metal seems to thrive and grow in very cold climates.
+	- We learned from [[Vellynne Harpell]] that chardalyn is called Crenshinibon in ancient elvish. The metal seems to thrive and grow as a root-like system in very cold climates.
 
 ### Lost & found
 - [ ] In and around [[Deep Delver's Enclave]] various items seem to have gone missing
@@ -86,7 +86,7 @@
 	- [[Jayce Goldsmile]] is missing her spectacles
 	- The bartender from The Lucky Lute is missing a couple kegs of ale, saw dwarven tracks.
 	- Various other items are missing
-	- [[Bailon the Beardless|Bailon]] had a suspicion that these creatures could turn invisible. Combining this lead with the dwarven tracks, these would probably be [[duergar]].
+	- [[Bailon the Beardless|Bailon]] had a suspicion that these creatures could turn invisible. Combining this lead with the dwarven tracks, these thieves would probably be [[duergar]].
 
 ## Completed
 ### Kobold mine
