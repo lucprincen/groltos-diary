@@ -1,0 +1,2 @@
+# Duergar Fortress
+A fortress on the other side of [[Shadowreach]], where [[Duergar|duergar]] were mining chardalyn. We defeated the duergar and took back the missing loot from [[Deep Delver's Enclave]] back.

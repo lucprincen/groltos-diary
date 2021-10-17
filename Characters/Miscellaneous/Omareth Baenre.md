@@ -1,4 +1,8 @@
+---
+aliases: [Omareth]
+---
 # Omareth Baenre
+![[omareth-baenre.jpg]]
 
 The drow necromancer that killed [[Yerthid Granitemuncher|Yerthid]]. Has a statue at the [[Sunless Grove]] with an inscription:
 
