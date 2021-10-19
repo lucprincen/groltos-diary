@@ -79,14 +79,8 @@
 	- The dwarves in [[Battlehammar Hold]] mine and forge this metal instead of iron, for having way better properties.
 	- What is causing chardalyn to grow continuously? Is this metal safe to use? Guess we have to find out.
 	- We learned from [[Vellynne Harpell]] that chardalyn is called Crenshinibon in ancient elvish. The metal seems to thrive and grow as a root-like system in very cold climates.
+	- Crenshinibon apparently originates from a distant planet, having crashed here for some reason.
 
-### Lost & found
-- [ ] In and around [[Deep Delver's Enclave]] various items seem to have gone missing
-	- [[Sigha]] is missing her goat, Gary
-	- [[Jayce Goldsmile]] is missing her spectacles
-	- The bartender from The Lucky Lute is missing a couple kegs of ale, saw dwarven tracks.
-	- Various other items are missing
-	- [[Bailon the Beardless|Bailon]] had a suspicion that these creatures could turn invisible. Combining this lead with the dwarven tracks, these thieves would probably be [[duergar]].
 
 ## Completed
 ### Kobold mine
@@ -118,3 +112,12 @@
 - [x] Visit the dwarves residing in [[Kelvin's Cairn]] to set up a trade deal for food.
 	- Trade deal has been set up with [[Bailon the Beardless]], leader of [[Deep Delver's Enclave]].
 	- Amala and Bailon set up the contract, Amala went back alone to [[Termalaine]] to deliver the news to [[Speaker Oarus|Oarus]].
+
+### Lost & found
+- [x] In and around [[Deep Delver's Enclave]] various items seem to have gone missing
+	- [[Sigha]] is missing her goat, Gary
+	- [[Jayce Goldsmile]] is missing her spectacles
+	- The bartender from The Lucky Lute is missing a couple kegs of ale, saw dwarven tracks.
+	- Various other items are missing
+	- [[Bailon the Beardless|Bailon]] had a suspicion that these creatures could turn invisible. Combining this lead with the dwarven tracks, these thieves would probably be [[duergar]].
+	- We managed to retrieve the stolen goods from the [[Duergar Fortress]]

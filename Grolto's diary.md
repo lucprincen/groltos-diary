@@ -16,6 +16,12 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 - [[9. Growing conspiracies]]
 - [[10. Dwarves Divided]]
 - [[11. The Grabbing Greys]]
+- [[12. Reaching into the shadows]]
+- [[13. Unexpected Relatives]]
+- [[14. Problems of Plenty]]
+- [[15. Suffering Stone]]
+- [[16. Gorom's Guidance]]
+- [[17. The Siege of Deep Delver's Enclave]]
 
 ## Quests and leads
 
