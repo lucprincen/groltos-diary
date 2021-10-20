@@ -54,6 +54,8 @@
 	- Name is [[Omareth Baenre]], belonging to the most powerful family in Menzoberranzan.
 	- We learned that Omareth was now the sovereign of the "growing mountain" and was studying it. Could be referencing [[Kelvin's Cairn]]?
 	- [[Bailon the Beardless|Bailon]] mentioned inquiring about this necromancer with [[Gorom]], an ancient creature living in [[Kelvin's Cairn]].
+	- Omareth has in fact ascended to lichdom, which makes him an immortal undead mage.
+	- Omareth is using the entire mountain as it's phylactery, luring souls of the dead to it in the form of moths.
 
 ### Shark skin map
 - [ ] Try to find the locations written on Henrack's [[henrack-shark-skin-map.jpg]]
@@ -71,9 +73,11 @@
 	- We need someone with powerful healing abilities to lift this magic or curse from the king.
 	- We know of mages and clerics in [[Easthaven]] who might be able to help the mad king.
 	- We found [[Vellynne Harpell]] who might be able to help King Baerick.
+	- Vellynne Harpell has traveled to the dwarven king to allegedly cure him of his affliction.
+	- We will probably visit them on the way out of the mountain.
 
 ### Colder than steel
-- [ ] [[Kelvin's Cairn]] seems to be a source for a newly discovered metal with great properties for forging and magic.
+- [ ] [[Kelvin's Cairn]] seems to be a source for a newly discovered metal with great properties for forging and retaining magic enchantments.
 	- [[Rotom Moonbane|Rotom]] has a couple of metal shards with her, originally found by [[Marlon Tayte|Marlon]] when we defeated the [[Ghost|ghost]] in the [[4. Gloom and Gems|mine]]. The shards have grown in size since we found them.
 	- On the way to [[Battlehammar Hold]] we got buried by an avalanche, caused by an earthquake. Later we discovered still growing spikes of this same metal having burst from the ground. Apparently the metal is called chardalyn.
 	- The dwarves in [[Battlehammar Hold]] mine and forge this metal instead of iron, for having way better properties.
