@@ -15,7 +15,7 @@
 
 ### Ten Towns Murders
 - [x] Ernest stabbed [[Hiln Trollbane]].
-	- [x] [[Creed of Auril]]l, cult dedicated to Auril?
+	- [x] [[Creed of Auril]]l, cult dedicated to [[Auril, The Frostmaiden|Auril]]?
 - [x] Guy named [[Henrack]], suspected ties to the murders.
 	- [x] Travels with Torrg's, merchant caravan led by [[Torrga Icevein]].
 	- [x] Was together with [[Sephak]], who we killed.
@@ -25,7 +25,7 @@
 
 ### Ten Towns sacrifices
 - [x] [[Ivahn of Daerlun]] was about to be sacrificed. Saved him.
-- [ ] People are being sacrificed to Auril in some towns.
+- [ ] People are being sacrificed to [[Auril, The Frostmaiden|Auril]] in some towns.
 	- [ ] Talk to Church of Auril about the sacrifices.
 	- [ ] Talk to [[Speaker Naerth Maxildanarr]] about sacrifices and lottery.
 	- [ ] Talk to residents. Ask about the circumstances and how they feel about it.

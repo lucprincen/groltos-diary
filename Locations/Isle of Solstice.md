@@ -1,0 +1,2 @@
+# Isle of Solstice
+And island where [[Anga Keos]], one of the still alive elven champions of [[Auril, The Frostmaiden|Auril]], lives in an ancient frost giant fortress. I've not yet heard of this place, but we might want to inform about this place.

@@ -1,0 +1,2 @@
+# Anga Keos
+Champion of [[Auril, The Frostmaiden|Auril]]. Of the eight champions, only Anga Keos and [[Omareth Baenre]] are alive. Anga Keos has a statue in the [[Sunless Grove]] where it was mentioned that they are the Custodian of the Frigid Veil. Lives on the [[Isle of Solstice]] according to [[Gorom]].
