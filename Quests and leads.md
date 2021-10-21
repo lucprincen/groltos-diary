@@ -1,7 +1,7 @@
 # Quests and leads
 
 ## Open
-### Talking creatures in the area
+### Talking creatures
 - [x] Encountered [[Talking lake monster|talking lake monster]] on the way to Termalaine.
 	- Dealt with the monster, made a deal with it that it would leave [[Amala Bhilar|Amala]] alone in exchange for food.
 - [x] Two fishermen in [[Termalaine]] spoke about two hunters from [[Lonelywood]] encountering a talking white moose.
@@ -15,7 +15,7 @@
 
 ### Ten Towns Murders
 - [x] Ernest stabbed [[Hiln Trollbane]].
-	- [ ] [[Creed of Auril]]l, cult dedicated to Auril?
+	- [x] [[Creed of Auril]]l, cult dedicated to Auril?
 - [x] Guy named [[Henrack]], suspected ties to the murders.
 	- [x] Travels with Torrg's, merchant caravan led by [[Torrga Icevein]].
 	- [x] Was together with [[Sephak]], who we killed.
