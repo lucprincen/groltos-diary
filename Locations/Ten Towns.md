@@ -16,3 +16,7 @@ The ten towns in the area are:
 - [[Caer-Konig]]
 - [[Termalaine]]
 - [[Lonelywood]]
+
+## The greater area of Icewind Dale
+
+![[icewind-dale.jpg]]

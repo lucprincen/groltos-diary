@@ -3,7 +3,6 @@
 This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters and evil.
 
 ## Diary entries
-
 - [[0. Underdark to Upperdark]]
 - [[1. Barrels, bulls, beers and boars]]
 - [[2. A Cold Welcome]]
@@ -22,6 +21,7 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 - [[15. Suffering Stone]]
 - [[16. Gorom's Guidance]]
 - [[17. The Siege of Deep Delver's Enclave]]
+- [[18. The Siege of Deep Delver's Enclave - part deux]]
 
 ## Quests and leads
 
