@@ -42,12 +42,6 @@ Finally, Vellynne addresses the entire group, says she has another job for us. A
 
 Vellynne also asks us if we're still going to look for [[Nass Lantomir]], her colleague to the north of [[Lonelywood]]. We reassure her we will look into her whereabouts and report back to her.
 
-We finish up our conversation and head back up to the town of Deep Delver's Enclave again, where we meet up with Bailon and [[King Baerick Battlehammar|King Baerick]]. Bailon thanks us all for helping save the town and introduces us to the king. The dwarven king addresses us and also thanks us for battling the undead, as well as for saving him from his maddening curse. As a way of thanks, he has instructed the smiths of [[Battlehammar Hold]] to make all of us either some mithral armour or a magical weapon, to our choosing. Thanking Bailong and King Baerick once again, we set out to the surface
+We finish up our conversation and head back up to the town of Deep Delver's Enclave again, where we spot with Bailon and [[King Baerick Battlehammar|King Baerick]]. Just before we reach them, we hear King Baerick whisper to Bailon that it might be time to abandon this place. 
 
-===============================
-
-Vellynne offers us a job to investigate the lost city of [[Ythryn]], and a ship called The Dark Duchess. As she was researching Shadowreach, which has now been overflowed with undead, she needs to look for other places to continue her researhc. Vellyne believes the ship contains some research documents of great value to her. 
-
-She also asks us if we are still looking for [[Nass Lantomir]], her colleague north of [[Lonelywood]]. She's willing to help and reward us if we help her out with these requests.
-
-We set out towards Ten Towns again. Vellynne mentioned the dwarves of [[Battlehammar Hold]] made us all mithral armour as a reward for saving [[King Baerick Battlehammar]].
+Seeing us arrive, Bailon thanks us all for helping save the town and introduces us to the king. The dwarven king addresses us and also thanks us for battling the undead, as well as for saving him from his maddening curse. As a way of thanks, he has instructed the smiths of [[Battlehammar Hold]] to make all of us either some mithral armour or a magical weapon, to our choosing. Thanking Bailon and King Baerick once again, we set out for Battlehammar Hold to restock on supplies and pick up our reward, before setting out to [[Ten Towns]] again.
