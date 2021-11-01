@@ -1,0 +1,3 @@
+# The Mastermind
+
+Affiliated to [[Omareth Baenre|Omareth]], the Mastermind was the leader of the horde of undead during [[17. The Siege of Deep Delver's Enclave|the siege of Deep Delver's Enclave]]. Announced that they were after some criminals who had stolen the chardalyn from the [[Duergar Fortress]]. Seemed to be in control of the horde, as the horde suddenly stopped attacking the town as the Mastermind was killed.

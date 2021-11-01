@@ -21,7 +21,7 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 - [[15. Suffering Stone]]
 - [[16. Gorom's Guidance]]
 - [[17. The Siege of Deep Delver's Enclave]]
-- [[Deep Reaching Shadows]]
+- [[18. Deep Reaching Shadows]]
 
 ## Quests and leads
 
