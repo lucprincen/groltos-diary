@@ -2,17 +2,15 @@
 
 It started to seem the tides were turning in our favour, as we managed to fend off large parts of the invasion already and there was a dead [[Zombie Beholder]] in front of me.
 
-I turned around and ran my way back into town, climbing back up the guard tower. Once I got up top and took a moment to glance back over the town, I noticed a pale figure in red robes rising from The Drop. The leader of the undead horde managed to get into the center of town! [[Aedan]] also seemed to have spot
+I turned around and ran my way back into town, climbing back up the guard tower. Once I got up top and took a moment to glance back over the town, I noticed a pale figure in red robes rising from The Drop. The Mastermind of this undead invasion managed to get into the center of town! [[Aedan]] also seemed to have spotted him as he aimed his longbow towards it.
+
+Suddenly, I spot [[Bailon the Beardless|Bailon]] running towards the north gate, his eyes glowing red. He suddenly stops and starts shouting a spell, causing the portcullis to shatter into pieces.
+
+The leader seemed to have noticed me as a massive blast of black energy targets me, causing a massive wound and pinning me to the wall with slimy, black tentacles. I scream towards Aedan and Bailon for help in panic, forgetting for a moment that Bailon was not himself just a moment ago.
+
+From the other tower, Aedan must have realised what threat this leader posed to all of us and the town, launching a volley of arrows towards the leader.
 
 ===============================
-
-I climb back up the tower to get a vantage point again, see my surroundings.
-
-Bailon shatters the inner portcullis with a spell, his eyes glowing red.
-
-Get hit by a massive black blast from the Mastermind, pinning me to the wall with slimy tentacles.
-
-I shout out at Aedan and Bailon for help, manage to free myself and hide in the tower.
 
 Aedan fires a volley of arrows at the Mastermind, causing it to lose control of Bailon.
 
