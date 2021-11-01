@@ -1,4 +1,4 @@
-# Dark Duchess
+# The Dark Duchess
 
 Someone or something [[Santiago Cruz de los Santos|Santiago]] mentioned in his sleep in [[4. Gloom and Gems]]. Doesn't bode well.
 

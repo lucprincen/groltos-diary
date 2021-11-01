@@ -1,4 +1,10 @@
-# The Siege of Deep Delver's Enclave - part deux
+# Deep Reaching Shadows
+
+It started to seem the tides were turning in our favour, as we managed to fend off large parts of the invasion already and there was a dead [[Zombie Beholder]] in front of me.
+
+I turned around and ran my way back into town, climbing back up the guard tower. Once I got up top and took a moment to glance back over the town, I noticed a pale figure in red robes rising from The Drop. The leader of the undead horde managed to get into the center of town! [[Aedan]] also seemed to have spot
+
+===============================
 
 I climb back up the tower to get a vantage point again, see my surroundings.
 
