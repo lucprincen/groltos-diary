@@ -2,31 +2,29 @@
 
 It started to seem the tides were turning in our favour, as we managed to fend off large parts of the invasion already and there was a dead [[Zombie Beholder]] in front of me.
 
-I turned around and ran my way back into town, climbing back up the guard tower. Once I got up top and took a moment to glance back over the town, I noticed a pale figure in red robes rising from The Drop. The Mastermind of this undead invasion managed to get into the center of town! [[Aedan]] also seemed to have spotted him as he aimed his longbow towards it.
+- I turned around and ran my way back into town, climbing back up the guard tower. Once I got up top and took a moment to glance back over the town, I noticed a pale figure in red robes rising from The Drop. The Mastermind of this undead invasion managed to get into the center of town! [[Aedan]] also seemed to have spotted them as he aimed his longbow towards it.
 
 Suddenly, I spot [[Bailon the Beardless|Bailon]] running towards the north gate, his eyes glowing red. He suddenly stops and starts shouting a spell, causing the portcullis to shatter into pieces.
 
-The leader seemed to have noticed me as a massive blast of black energy targets me, causing a massive wound and pinning me to the wall with slimy, black tentacles. I scream towards Aedan and Bailon for help in panic, forgetting for a moment that Bailon was not himself just a moment ago.
+From the other tower, Aedan must have realised what threat this leader posed to all of us and the town, launching a volley of arrows towards the Mastermind. This seems to cause it to lose the control it had over Bailon, who's now standing confused and angry in front of the shattered gate.
 
-From the other tower, Aedan must have realised what threat this leader posed to all of us and the town, launching a volley of arrows towards the leader.
+The Mastermind seemed to have noticed me as a massive blast of black energy targets me, causing a massive wound and pinning me to the wall with slimy, black tentacles. I scream towards Aedan and Bailon for help in panic, forgetting for a moment that Bailon was not himself just a moment ago.
+
+I break free from the black tentacles and run down the stairs of tower, hiding myself from this powerful mage.
+
+ Bailon turns around and runs towards the Mastermind's location, throwing a handful of pebbles at the Mastermind. I was confused at first, but as soon as the pebbles hit the Mastermind, it seemed to have a controlling effect on them as they started to count the pebbles on the floor.
+
+As it seemed just a bit safer, I ran out of the tower towards Bailon. Asking if he has any healing potions, he nods his head down at his belt, where I spot two healing potions. I take and drink one, easing my pain and somewhat closing my wounds.
+
+I see another volley of arrows get launched from Aedan's tower, the arrows taking off chunks of dead flesh from the Mastermind. They're starting to look quite wounded, for something undead that is.
+
+The Mastermind looks in Aedan's direction, points they're hand towards the tower and utters a spell. As I look back, Aedan's eyes are now glowing red. The Mastermind must have put Aedan under a spell, controlling him. The Mastermind seems to want to get out of here, having met their match. They move towards The Drop and start to fly down, descend into the deep hole.
+
+Seeing the Mastermind wanting to flee, Bailon runs up to them and tries to swing twice at it with his axes, but sadly misses both attacks.
+
+In a desperate attempt to try and stop the Mastermind from escaping, I run up to the edge of The Drop and invoke my blood curse of binding on it to stop it from moving. This must have also broken its ability to fly, as it starts falling down the pit. Suddenly, I spot [[Rotom Moonbane|Rotom]] and [[Santiago Cruz de los Santos|Santiago]] at the bottom of the pit, so I shout down that they should watch out. The Mastermind crashes into the icy walls a couple of times during its fall, until eventually it breaks into a pile of dead flesh and bones at the bottom of the frozen waterfall. 
 
 ===============================
-
-Aedan fires a volley of arrows at the Mastermind, causing it to lose control of Bailon.
-
-Bailon throws a handful of pebbles at the Mastermind, casting a spell causing it to frantically count the pebbles for a moment.
-
-I run up to Bailon, asking him if he has a healing potion. He tilts his head backwards towards his belt, where I see two flasks. I take one and drink it.
-
-Aedan launches another volley at the Mastermind, severely wounding it.
-
-The Mastermind casts a spell in Aedan's direction. Looking back, I can now see Aedan's eyes glowing red. It probably has control of Aedan. It also starts to go down the pit again.
-
-I run out towards a ruin, get out my hand crossbow and start firing bolts at it. At the first hit, I notice it's lost its concentration on the spell it cast on Aedan. I keep firing, severely hurting it.
-
-Bailon runs up to it and tries to hit it, but misses.
-
-The Mastermind starts flying back down the drop again, fleeing the battle.
 
 I run up to the hole and use my blood curse of binding on him, causing him to lose his flying ability and drop down the hole. The Mastermind smacks against the walls a few times, before crashing into the floor at the bottom. While its falling, I see Rotom and Santiago at the bottom, yell that something's incoming. Some flesh and bones drop right on their head. I yell that they should get their asses back up here, but the seem to ignore my call. I run back to the north gate to fend of the rest of the zombies.
 
