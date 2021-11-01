@@ -1,3 +1,6 @@
+---
+aliases: [King Baerick, Baerick]
+---
 # King Baerick Battlehammar
 
 The dwarven king gone mad of [[Battlehammar Hold]]. Married to [[Queen Brunhilda Battlehammar]]. Old friend of [[Bailon the Beardless]]. 

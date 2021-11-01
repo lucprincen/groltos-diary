@@ -32,14 +32,22 @@ At the bottom of the path, we see the stone giants appear, smashing the now stat
 
 I hear a familiar voice behind me. It's [[Vellynne Harpell]], having arrived at [[Deep Delver's Enclave]] together with [[King Baerick Battlehammar]]. She inquires about the kobold messenger that now serves a new queen who came to find [[Vellynne Harpell]], not knowing that it was sent by Rotom. I tell Vellynne that this queen is someone familiar to her, Rotom. Surprised to hear her name here, Vellynne tells me she wants to thank Rotom. Agreeing to find Rotom, I gather up Aedan and Rime and we set out towards The Drop.
 
-As The Drop is a couple of hundred, I propose to take the long way round and meet them at the exit of the frozen waterfall. Vellynne proposes a more direct approach, directly down the frozen waterfall. Familiar with this approach, as she cast the same spell that Santiago cast when took me with him as he jumped over the edge near the broken bridge on the way to [[Gorom]], 
+As The Drop is a couple of hundred feet deep, I propose to take the long way round and meet them at the exit of the frozen waterfall. Vellynne proposes a more direct approach, directly down the frozen waterfall. Familiar with this approach, we jump into the hole as she casts a spell causing us to float down. At the bottom I spot a brightly coloured dome, as Santiago sticks his head out of this magical barrier. 
+
+As we reach this dome, we all fall through the magical barrier, except for Vellynne. She lightly smacks against the dome, confused as to why she isn't allowed to enter. It takes some convincing and reassuring that Vellynne is here with good intentions, as Santiago finally allows her in. As he does so, Vellynne immediately drops through the barrier, and Aust makes an unfortunate attempt at catching her, causing them both to tumble over.
+
+Vellynne addresses Rotom and thanks her for sending the kobold to come find her. Rotom still seems a bit distressed at finally facing Vellynne as she wasn't sure how Vellynne would react to Rotom's sudden departure from the kobold pack.
+
+Finally, Vellynne addresses the entire group, says she has another job for us. As the city of Shadowreach is now impossible to research because of the remains of the horde still present there, she wants us to find a certain ship containing very valuable research documents of great importance to her. Vellynne mentions the ship is called [[The Dark Duchess]]. I see Santiago's eyes widen and causes an expression of amazement and greed. Asking Santiago if this is the ship he is actually looking for, he tries to hush me as if he does not want me to mention it to anyone.
+
+Vellynne also asks us if we're still going to look for [[Nass Lantomir]], her colleague to the north of [[Lonelywood]]. We reassure her we will look into her whereabouts and report back to her.
+
+We finish up our conversation and head back up to the town of Deep Delver's Enclave again, where we meet up with Bailon and [[King Baerick Battlehammar|King Baerick]]. Bailon thanks us all for helping save the town and introduces us to the king. The dwarven king addresses us and also thanks us for battling the undead, as well as for saving him from his maddening curse. As a way of thanks, he has instructed the smiths of [[Battlehammar Hold]] to make all of us either some mithral armour or a magical weapon, to our choosing. Thanking Bailong and King Baerick once again, we set out to the surface
 
 ===============================
 
-Vellynne finds me, inquires about the kobold messenger that was sent to her by Rotom. She's looking for her to thank her. I gather Aedan and Rime, walk toward The Drop and we drop down as Vellynne casts a spell allowing us to drop slowly towards Santiago and Rotom's tiny hideout they've cast down at the bottom.
+Vellynne offers us a job to investigate the lost city of [[Ythryn]], and a ship called The Dark Duchess. As she was researching Shadowreach, which has now been overflowed with undead, she needs to look for other places to continue her researhc. Vellyne believes the ship contains some research documents of great value to her. 
 
-All of us drop through the bubble of the sanctuary, apart from Vellynne, who lightly smacks against the surface as Santiago and Rotom are hesitant to allow Vellynne into the hut. After some discussion, not entirely trusting Vellynne's intentions, they allow her in after she seems forthright. Vellynne offers us a job to investigate the lost city of [[Ythryn]], and a ship called The Dark Duchess. As she was researching Shadowreach, which has now been overflowed with undead, she needs to look for other places to continue her researhc. Vellyne believes the ship contains some research documents of great value to her. 
+She also asks us if we are still looking for [[Nass Lantomir]], her colleague north of [[Lonelywood]]. She's willing to help and reward us if we help her out with these requests.
 
-She also asks us if we are still looking for Naz, her colleague north of [[Lonelywood]]. She's willing to help and reward us if we help her out with these requests.
-
-We set out towards Ten Towns again. Vellynne mentioned the dwarves of [[Battlehammar Hold]] made us all mythril armour as a reward for saving [[King Baerick Battlehammar]].
+We set out towards Ten Towns again. Vellynne mentioned the dwarves of [[Battlehammar Hold]] made us all mithral armour as a reward for saving [[King Baerick Battlehammar]].
