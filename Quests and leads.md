@@ -43,11 +43,6 @@
 	- [ ] What is their interest in the lantern? Why did [[Torrga Icevein|Torrga]] had to die for it?
 	- [ ] Ask about ransom notes, like the one [[Sephak]] carried with him, and how they tie to the kill list we found in the [[Sunless Grove]]
 
-### Missing loggers from Lonelywood
-- [ ] Some loggers went missing in [[Lonelywood]]. We need to investigate.
-	- Found a wooden ring on a dead body with an inscription of the Lonelywood Logging Company in the Lonelywood forest.
-	- Two more wooden rings on dead bodies in the [[Sunless Grove]]
-
 ### Omareth Baenre, the necromancer
 - [ ] The necromancer that killed Yerthid visited me in my dreams and in the mist on the way to the druid circle.
 	- The necromancer had a statue at the [[Sunless Grove]]
@@ -67,15 +62,6 @@
 - [ ] A man named [[Dzaan]] from [[Easthaven]] was looking for the elemental lantern to use it to find a certain titan. We can find him in a tavern called The Wet Trout.
 - [ ] Dzaan was in a bidding war for the lantern with someone named Avarice.
 
-### The Mad King
-- [ ] [[King Baerick Battlehammar]] apparently went mad after wearing armor and trinkets made of chardalyn.
-	- Madness not directly tied to chardalyn, as the king was turned into a derro. This was caused by mindflayer magic. Metal could still have something to do with it though. Need to investigate.
-	- We need someone with powerful healing abilities to lift this magic or curse from the king.
-	- We know of mages and clerics in [[Easthaven]] who might be able to help the mad king.
-	- We found [[Vellynne Harpell]] who might be able to help King Baerick.
-	- Vellynne Harpell has traveled to the dwarven king to allegedly cure him of his affliction.
-	- We will probably visit them on the way out of the mountain.
-
 ### Colder than steel
 - [ ] [[Kelvin's Cairn]] seems to be a source for a newly discovered metal with great properties for forging and retaining magic enchantments.
 	- [[Rotom Moonbane|Rotom]] has a couple of metal shards with her, originally found by [[Marlon Tayte|Marlon]] when we defeated the [[Ghost|ghost]] in the [[4. Gloom and Gems|mine]]. The shards have grown in size since we found them.
@@ -84,6 +70,7 @@
 	- What is causing chardalyn to grow continuously? Is this metal safe to use? Guess we have to find out.
 	- We learned from [[Vellynne Harpell]] that chardalyn is called Crenshinibon in ancient elvish. The metal seems to thrive and grow as a root-like system in very cold climates.
 	- Crenshinibon apparently originates from a distant planet, having crashed here for some reason.
+	- Duergar were mining chardalyn to manufacture a mechanical dragon.
 
 
 ## Completed
@@ -125,3 +112,19 @@
 	- Various other items are missing
 	- [[Bailon the Beardless|Bailon]] had a suspicion that these creatures could turn invisible. Combining this lead with the dwarven tracks, these thieves would probably be [[duergar]].
 	- We managed to retrieve the stolen goods from the [[Duergar Fortress]]
+### The Mad King
+- [x] [[King Baerick Battlehammar]] apparently went mad after wearing armor and trinkets made of chardalyn.
+	- Madness not directly tied to chardalyn, as the king was turned into a derro. This was caused by mindflayer magic. Metal could still have something to do with it though. Need to investigate.
+	- We need someone with powerful healing abilities to lift this magic or curse from the king.
+	- We know of mages and clerics in [[Easthaven]] who might be able to help the mad king.
+	- We found [[Vellynne Harpell]] who might be able to help King Baerick.
+	- Vellynne Harpell has traveled to the dwarven king to allegedly cure him of his affliction.
+	- We will probably visit them on the way out of the mountain.
+
+
+### Missing loggers from Lonelywood
+- [x] Some loggers went missing in [[Lonelywood]]. We need to investigate.
+	- Found a wooden ring on a dead body with an inscription of the Lonelywood Logging Company in the Lonelywood forest.
+	- Two more wooden rings on dead bodies in the [[Sunless Grove]]
+	- We encountered a [[White moose|white moose]] at the grove. Killing it has seemed to stop the killing of the loggers.
+
