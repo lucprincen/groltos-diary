@@ -1,2 +1,0 @@
-# Reghed Glacier
-The glacier to the northwest of [[Kelvin's Cairn]]. [[Gorom]] told us about potential allied stone giants there. There we would also be able to find the ancient ruins of [[Ythryn]], the Netherese floating city that got blown out of the sky in the asteroid crash that formed [[Kelvin's Cairn]].

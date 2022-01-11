@@ -1,2 +1,0 @@
-# Ythryn
-The ruins of an ancient Netherese floating city called Ythryn can apparently be found in the [[Reghed Glacer]], [[Gorom]] told us. The city would contain a Mythallar, an object of immense magical power that we would need to defeat [[Omareth Baenre]].
