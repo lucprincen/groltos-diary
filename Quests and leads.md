@@ -8,7 +8,7 @@
 	- Killed the white moose at the [[Sunless Grove]]
 - [x] Talking penguin named Kingsporth.
 	- Given the ability to speak by [[Ravisin]]
-	- [[Santiago Cruz de los Santos|Santiago]] carries him in his backpack
+	- [[Santiago Cruz de los Santos, or Grok|Santiago]] carries him in his backpack
 - [ ] Talking owl that spoke to [[Henrack]]
 	- Appears the owl is [[Ravisin]]? She turned into an owl after the battle in the [[Sunless Grove]].
 	- Henrack and Ravisin appeared to be lovers/partners, but she left Henrack to die when we were fighting him

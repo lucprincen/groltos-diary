@@ -1,7 +1,7 @@
 ---
-aliases: [Santiago]
+aliases: [Santiago, Grok]
 ---
-# Santiago Cruz de los Santos
+# Santiago Cruz de los Santos, or Grok
 Orc pirate, male. Big mouthed. Doesn't shy away from walking straight into trouble all the time. Wanted me to come along, to join his search for his lost ship.
 
 Keeps [[Rotom Moonbane]] happy by providing her with all kinds of shiny things.
